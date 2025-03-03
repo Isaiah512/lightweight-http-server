@@ -1,6 +1,6 @@
 # C++ HTTP Server
 
-A lightweight HTTP server built from scratch in C++ that can be run natively or in a Docker container.
+A lightweight HTTP server built from scratch in C++ without any third party libraries, that can be run natively or in a Docker container.
 
 ## Features
 
